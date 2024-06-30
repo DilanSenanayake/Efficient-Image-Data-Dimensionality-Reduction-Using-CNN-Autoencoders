@@ -4,6 +4,7 @@ This project features a Convolutional Neural Network (CNN) Autoencoder focused o
 ## Dataset
 - **Location:** Provide the path to your dataset in the `dataset_dir` variable.
 - **Structure:** The dataset should be organized in a directory structure suitable for `ImageDataGenerator`, with subdirectories representing different classes.
+- **url:** https://www.kaggle.com/datasets/vuppalaadithyasairam/bone-fracture-detection-using-xrays/data
 
 ## Model Architecture
 The autoencoder consists of two parts:
